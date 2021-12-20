@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shahnawazhusain-gep
 - 👀 I’m interested in Front-End technologies
-- 🌱 I’m currently learning Angular8
+- 🌱 I’m currently learning Angular5
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me @shahnawaz.husain@gep.com
 
